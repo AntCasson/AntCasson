@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AntCasson
-- 👀 I’m interested in front-end-developement
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in frontend developement and webdesign
+- 🌱 I’m currently learning NextJS and SUPABASE for my new personal website
+- Check it out at [antcasson.eu](https://www.antcasson.eu/)
+- 
 
 
 
