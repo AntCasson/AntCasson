@@ -2,7 +2,7 @@
  
  👀 I’m interested in frontend developement and webdesign.
  
- 🌱 I’m currently learning __NextJS__ and __SUPABASE__ for my new personal website
+ 🌱 I’m currently learning __NextJS__ and __Open-Props__ for my new personal website
  check it out at [AntCasson.eu](https://www.antcasson.eu/) 
  
 
